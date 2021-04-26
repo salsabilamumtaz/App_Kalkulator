@@ -1,0 +1,15 @@
+D:\appkalkulator\appkalkulator\bin\Debug\appkalkulator.exe
+D:\appkalkulator\appkalkulator\bin\Debug\appkalkulator.pdb
+D:\appkalkulator\appkalkulator\obj\x86\Debug\appkalkulator.Form1.resources
+D:\appkalkulator\appkalkulator\obj\x86\Debug\appkalkulator.Properties.Resources.resources
+D:\appkalkulator\appkalkulator\obj\x86\Debug\appkalkulator.csproj.GenerateResource.Cache
+D:\appkalkulator\appkalkulator\obj\x86\Debug\appkalkulator.exe
+D:\appkalkulator\appkalkulator\obj\x86\Debug\appkalkulator.pdb
+D:\UJIAN PRAKTEK\appkalkulator\appkalkulator\obj\x86\Debug\appkalkulator.exe
+D:\UJIAN PRAKTEK\appkalkulator\appkalkulator\obj\x86\Debug\appkalkulator.pdb
+D:\UJIAN PRAKTEK\appkalkulator\appkalkulator\bin\Debug\appkalkulator.exe
+D:\UJIAN PRAKTEK\appkalkulator\appkalkulator\bin\Debug\appkalkulator.pdb
+D:\UJIAN PRAKTEK\appkalkulator\appkalkulator\obj\x86\Debug\appkalkulator.Form1.resources
+D:\UJIAN PRAKTEK\appkalkulator\appkalkulator\obj\x86\Debug\appkalkulator.Properties.Resources.resources
+D:\UJIAN PRAKTEK\appkalkulator\appkalkulator\obj\x86\Debug\appkalkulator.csproj.GenerateResource.Cache
+D:\UJIAN PRAKTEK\appkalkulator\appkalkulator\obj\x86\Debug\appkalkulator.csprojResolveAssemblyReference.cache
